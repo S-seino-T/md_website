@@ -12,12 +12,14 @@ header {
 }
 
 nav {
-    margin: 20px 0;
+    margin: 20px 40px;
 }
 
 nav ul {
     list-style-type: none;
     padding: 0;
+    display: flex;
+    justify-content: space-between;
 }
 
 nav ul li {
